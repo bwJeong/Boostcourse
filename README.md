@@ -6,3 +6,8 @@
 
 - 주요내용: AVAudioPlayer를 활용한 음원 파일 재생 기능 구현
 - 사용기술: UIKit, AVAudioPlayer, Timer
+
+## 프로젝트B. SignUp
+
+- 주요내용: 회원가입 페이지 구현
+- 사용기술: UIKit, UIImagePickerController, RxSwift
