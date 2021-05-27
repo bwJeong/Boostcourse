@@ -8,9 +8,9 @@
 - 사용기술: UIKit, AVAudioPlayer, Timer
 
 ## 프로젝트B. SignUp
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813515-558d8d00-bf24-11eb-8a2f-6c4b8b726db7.png" width="15%" height="15%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813520-59b9aa80-bf24-11eb-8889-38da9fc4133f.png" width="15%" height="15%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813523-5c1c0480-bf24-11eb-933c-31d0bc123c07.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813515-558d8d00-bf24-11eb-8a2f-6c4b8b726db7.png" width="15%" height="15%"></p>
 
 - 주요내용: 회원가입 페이지 구현
 - 사용기술: UIKit, UIImagePickerController, RxSwift
