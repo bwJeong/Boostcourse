@@ -4,8 +4,9 @@
 ## 프로젝트A. MusicPlayer
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119622370-0c650c80-be42-11eb-8814-3830d3a79707.png" width="15%" height="15%"></p>
 
-- 주요내용: AVAudioPlayer를 활용한 음원 파일 재생 기능 구현
+- 한줄소개: AVAudioPlayer를 활용한 음원 파일 재생 기능 구현
 - 사용기술: UIKit, AVAudioPlayer, Timer
+- 주요내용:
 
 ## 프로젝트B. SignUp
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813520-59b9aa80-bf24-11eb-8889-38da9fc4133f.png" width="15%" height="15%"></p>
@@ -13,5 +14,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813515-558d8d00-bf24-11eb-8a2f-6c4b8b726db7.png" width="15%" height="15%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119942113-6bef2380-bfcc-11eb-9c2f-14081e812291.png" width="15%" height="15%"></p>
 
-- 주요내용: 회원가입 페이지 구현
+- 한줄소개: 회원가입 페이지 구현
 - 사용기술: UIKit, UIImagePickerController, RxSwift
+- 주요내용:
