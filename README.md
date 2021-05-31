@@ -17,3 +17,11 @@
 - 한줄소개: 회원가입 페이지 구현
 - 사용기술: UIKit, UIImagePickerController, RxSwift
 - 주요내용:
+
+## 프로젝트C. WeatherToday
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/120181749-76b5ec80-c248-11eb-9dd0-ca68f17a1ea1.png" width="15%" height="15%"></p>
+
+- 한줄소개: 세계 각 국의 오늘의 날씨 구현
+- 사용기술: UIKit, MVVM
+- 주요내용:
+
