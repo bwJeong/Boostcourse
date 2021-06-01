@@ -27,4 +27,7 @@
 - 사용기술: UIKit, Codable, Decodable, MVVM
 - 주요내용:
   - 국가 정보 및 각 도시의 날씨 정보를 저장하기 위한 Country, CityWeather 모델 구현
+  - 각 모델의 데이터 관리 및 Fetch를 위한 뷰모델 구현
+  - 네비게이션 기반의 테이블 뷰 구현
+  - Segue를 이용한 화면 전환 및 데이터 전달
 
