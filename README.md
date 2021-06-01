@@ -7,6 +7,9 @@
 - 한줄소개: AVAudioPlayer를 활용한 음원 파일 재생 기능 구현
 - 사용기술: UIKit, AVAudioPlayer, Timer
 - 주요내용:
+  - AVAudioPlayer를 이용한 음원 재생 기능 구현
+  - Timer를 이용한 일시정지/재생 기능 구현
+  - Slider를 이용한 음원 재생 시간 제어 기능 구현
 
 ## 프로젝트B. SignUp
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/119813520-59b9aa80-bf24-11eb-8889-38da9fc4133f.png" width="15%" height="15%"></p>
