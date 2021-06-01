@@ -20,6 +20,8 @@
 
 ## 프로젝트C. WeatherToday
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/120181749-76b5ec80-c248-11eb-9dd0-ca68f17a1ea1.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/120273242-322e5d80-c2e9-11eb-8e33-bea2cad33ef8.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/120273245-335f8a80-c2e9-11eb-9e27-624144da3c2a.png" width="15%" height="15%"></p>
 
 - 한줄소개: 세계 각 국의 오늘의 날씨 구현
 - 사용기술: UIKit, MVVM
