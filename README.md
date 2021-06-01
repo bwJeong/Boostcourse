@@ -8,7 +8,7 @@
 - 사용기술: UIKit, AVAudioPlayer, Timer
 - 주요내용:
   - AVAudioPlayer를 이용한 음원 재생 기능 구현
-  - Timer를 이용한 일시정지/재생 기능 구현
+  - Timer를 이용한 재생 및  기능 구현
   - Slider를 이용한 음원 재생 시간 제어 기능 구현
 
 ## 프로젝트B. SignUp
