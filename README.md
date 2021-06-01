@@ -17,6 +17,10 @@
 - 한줄소개: 회원가입 페이지 구현
 - 사용기술: UIKit, UIImagePickerController, RxSwift
 - 주요내용:
+  - UIImagePickerController를 이용한 갤러리 이미지 접근 기능 구현
+  - RxCocoa를 이용한 버튼 비동기 활성화 구현
+  - Date Picker와 같은 UI Object 활용 경험
+  - Segue를 이용한 화면 전환
 
 ## 프로젝트C. WeatherToday
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/120181749-76b5ec80-c248-11eb-9dd0-ca68f17a1ea1.png" width="15%" height="15%"></p>
