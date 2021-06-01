@@ -26,5 +26,5 @@
 - 한줄소개: 세계 각 국의 오늘의 날씨 구현
 - 사용기술: UIKit, Codable, Decodable, MVVM
 - 주요내용:
-** 국가 정보 및 각 도시의 날씨 정보를 저장하기 위한 Country, CityWeather 모델 구현
+  - 국가 정보 및 각 도시의 날씨 정보를 저장하기 위한 Country, CityWeather 모델 구현
 
