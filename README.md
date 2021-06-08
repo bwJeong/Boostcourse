@@ -41,6 +41,6 @@
 ## 프로젝트D. MyAlbum
 
 - 한줄소개: 
-- 사용기술: UIKit, PhotoKit
+- 사용기술: UIKit, Compositional Layout, PhotoKit
 - 주요내용:
 
