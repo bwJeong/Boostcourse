@@ -39,7 +39,7 @@
   - Segue를 이용한 화면 전환 및 데이터 전달
 
 ## 프로젝트D. MyAlbum
-<p align="center"><img src="https://user-images.githubusercontent.com/54430715/121371058-348f5800-c978-11eb-8196-fb36706d73cd.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/121371563-99e34900-c978-11eb-94ab-d17f0f49ba6b.png" width="15%" height="15%"></p>
 
 - 한줄소개: 
 - 사용기술: UIKit, Compositional Layout, PhotoKit
