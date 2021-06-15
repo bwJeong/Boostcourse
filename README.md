@@ -40,6 +40,8 @@
 
 ## 프로젝트D. MyAlbum
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/121371563-99e34900-c978-11eb-94ab-d17f0f49ba6b.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/122038072-3346ab00-ce10-11eb-9892-48ebe86b8b33.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/122038077-35106e80-ce10-11eb-8bfb-14f0c4cd1360.png" width="15%" height="15%"></p>
 
 - 한줄소개: 
 - 사용기술: UIKit, Compositional Layout, PhotoKit
