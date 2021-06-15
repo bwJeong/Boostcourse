@@ -45,6 +45,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/122038077-35106e80-ce10-11eb-8bfb-14f0c4cd1360.png" width="15%" height="15%"></p>
 
 - 한줄소개: 
-- 사용기술: UIKit, Compositional Layout, PhotoKit
+- 사용기술: UIKit, Compositional Layout, PhotoKit, RxSwift, MVVM
 - 주요내용:
 
