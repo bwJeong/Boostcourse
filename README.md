@@ -31,7 +31,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/120273245-335f8a80-c2e9-11eb-9e27-624144da3c2a.png" width="15%" height="15%"></p>
 
 - 한줄소개: 세계 각 국 주요 도시의 날씨 정보 앱 구현
-- 사용기술: UIKit, Codable, Decodable, MVVM
+- 사용기술: UIKit, Codable, MVVM
 - 주요내용:
   - 국가 정보 및 각 도시의 날씨 정보를 저장하기 위한 Country, CityWeather 모델 구현
   - 각 모델의 데이터 관리 및 Fetch를 위한 뷰모델 구현
