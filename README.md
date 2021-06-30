@@ -49,3 +49,10 @@
 - 사용기술: UIKit, Compositional Layout, PhotoKit, RxSwift, RxCocoa, MVVM
 - 주요내용:
 
+## 프로젝트E. BoxOffice
+
+- 한줄소개: 
+- 사용기술: UIKit, MVVM
+- 주요내용:
+
+
