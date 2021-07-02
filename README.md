@@ -51,6 +51,7 @@
 
 ## 프로젝트E. BoxOffice
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/124221677-32fe1d80-db3b-11eb-88bf-2023203bcfe8.png" width="15%" height="15%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54430715/124223973-c46f8e80-db3f-11eb-839a-785dc7029f59.png" width="15%" height="15%"></p>
 
 - 한줄소개: 
 - 사용기술: UIKit, MVVM
