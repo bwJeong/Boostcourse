@@ -45,7 +45,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/122038077-35106e80-ce10-11eb-8bfb-14f0c4cd1360.png" width="15%" height="15%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/123642935-d2cb5b00-d85e-11eb-8f5b-0fe6d5c0084e.png" width="15%" height="15%"></p>
 
-- 한줄소개: 
+- 한줄소개: PhotoKit을 이용한 앨범 관리 어플리케이션 구현
 - 사용기술: UIKit, Compositional Layout, PhotoKit, RxSwift, RxCocoa, MVVM
 - 주요내용: 진행중...
 
@@ -57,7 +57,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/125012199-c5a33d00-e0a4-11eb-9184-3a8838b65bb2.png" width="15%" height="15%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/125012201-c76d0080-e0a4-11eb-8090-6cdbccf87565.png" width="15%" height="15%"></p>
 
-- 한줄소개: 네이버 영화 오픈 API를 이용한 영화 정보 제공 어플리케이션
+- 한줄소개: 네이버 영화 오픈 API를 이용한 영화 정보 제공 어플리케이션 
 - 사용기술: UIKit, CocoaPods, Alamofire, Cosmos, RxSwift, RxCocoa, MVVM
 - 주요내용: 
   - Movies, MovieDetail, Comments 모델 구현
