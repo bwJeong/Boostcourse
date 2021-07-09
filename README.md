@@ -47,7 +47,7 @@
 
 - 한줄소개: 
 - 사용기술: UIKit, Compositional Layout, PhotoKit, RxSwift, RxCocoa, MVVM
-- 주요내용:
+- 주요내용: 진행중...
 
 ## 프로젝트E. BoxOffice
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/124221677-32fe1d80-db3b-11eb-88bf-2023203bcfe8.png" width="15%" height="15%"></p>
@@ -57,8 +57,17 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/125012199-c5a33d00-e0a4-11eb-9184-3a8838b65bb2.png" width="15%" height="15%"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/125012201-c76d0080-e0a4-11eb-8090-6cdbccf87565.png" width="15%" height="15%"></p>
 
-- 한줄소개: 
-- 사용기술: UIKit, MVVM
-- 주요내용:
+- 한줄소개: 네이버 영화 오픈 API를 이용한 영화 정보 제공 어플리케이션
+- 사용기술: UIKit, CocoaPods, Alamofire, Cosmos, RxSwift, RxCocoa, MVVM
+- 주요내용: 
+  - Movies, MovieDetail, Comments 모델 구현
+  - Alamofire를 이용한 HTTP Method (GET, POST) 활용
+  - 각 모델의 관련 로직 처리를 위한 뷰모델 구현
+  - Tap Bar Controller, Navigation Controllor, Table View Controller & Collection View Controllor를 활용한 뷰 구현
+  - UIAlertController를 이용한 액션시트 구현
+  - ScrollView를 이용한 오토레이아웃 구현
+  - RxSwift & RxRelay를 이용한 뷰모델의 데이터 바인딩 구현
+  - RXSwift & RxCocoa를 이용한 리액티브 버튼 구현
+  - Cosmos를 이용한 별점 슬라이더 구현
 
 
