@@ -58,7 +58,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/54430715/125012201-c76d0080-e0a4-11eb-8090-6cdbccf87565.png" width="15%" height="15%"></p>
 
 - 한줄소개: 네이버 영화 오픈 API를 이용한 영화 정보 제공 어플리케이션 
-- 사용기술: UIKit, CocoaPods, Alamofire, Cosmos, RxSwift, RxCocoa, MVVM
+- 사용기술: UIKit, CocoaPods, Alamofire, Cosmos, RxSwift, RxCocoa, MVVM + Repository
 - 주요내용: 
   - Movies, MovieDetail, Comments 모델 구현
   - Alamofire를 이용한 HTTP Method (GET, POST) 활용
